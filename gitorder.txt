@@ -4,4 +4,9 @@ git add "檔案名"
 git add .
 #儲存
 git commit -m "新增什麼"
-#
+#push指令
+git push -u origin master
+#-u之後(設定預設值)
+git push
+#在不同電腦開發
+git clone "網址"
